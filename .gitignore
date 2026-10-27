@@ -1,0 +1,9 @@
+.venv/
+.env
+
+#.gitignore
+#git init
+#git add .
+#git commit -m "pytho basics"
+#git remote add origin ....
+#git push -u origin master
