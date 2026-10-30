@@ -14,13 +14,16 @@ class Circle:
         print("Radius is", self.radius)
         print("Area is",self.area())
         print("Perimeter",self.perimeter())
-
+#objects == instance of a class ==variable
 c1 = Circle(10)
 c2 = Circle(28)
 c3 = Circle(40)
 
 print(c1.area())
 c1.print_details()
+
+my_circle = [c1,c2,c3]
+print(my_circle)
 
 # branches -- copy -- master main
 # feature ---
