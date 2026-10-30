@@ -17,3 +17,4 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
 
   # WHERET TO PLACE YOUR MUSIC AFTER downloading
   # CHECK HOW TO DO META DATA EG ALBUM,THE YEAR,IMAGE
+  # I need to learn more on how to learn
