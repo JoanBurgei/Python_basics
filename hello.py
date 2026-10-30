@@ -6,3 +6,8 @@ print(10/3)
 print(10/3.0)
 print(10//7)
 # print(10%7) how to comment in python
+
+
+
+
+

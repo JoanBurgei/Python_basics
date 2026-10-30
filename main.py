@@ -1,16 +1,15 @@
-# This is a sample Python script.
+# I am learning inputs
+print("Who are you? :")
+name = input() # prints your name at the next line
+print(f"My name is {name}")
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+country = input("Which country are you in? :")# prints in the same line
+print(f"country is {country}")
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Multiple Inputs
+name = input("Enter your name:")
+print(f"Hello {name}")
+fav1 = input("What is your favorite animal:")
+fav2 = input("What is your favorite color:")
+fav3 = input("What is your favorite number:")
+print(f"Do you want a {fav2} {fav1} with {fav3} legs?")
